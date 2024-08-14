@@ -2,6 +2,8 @@
 using Aula02RH.Models;
 using Aula02RH.Models.Enuns;
 
+//Comentário 14/08/2024
+
 namespace Aula02RH // Note: actual namespace depends on the project name.
 {
     public class Program
