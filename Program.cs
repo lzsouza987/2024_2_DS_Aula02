@@ -41,7 +41,8 @@ namespace Aula02RH // Note: actual namespace depends on the project name.
             Console.WriteLine($"O salário reajustado é {func.Salario}");
             Console.WriteLine($"O desconto do VT é {valorDescontoVT}");
             Console.WriteLine("====================================================================");
-            
+
+            //Atualização do código na branch de teste    
 
         }
     }
